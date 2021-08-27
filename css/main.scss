@@ -11,16 +11,16 @@ h1, h2 {
     
     
 h1 {
-    font-size: 3rem;
+    font-size: 3vw;
     text-align: left;
-    text-indent: 120px;
+    text-indent: 80px;
     letter-spacing: 20px;
     }
 
 h2 {
     text-align: left;
-    font-size: 1.2rem;
-    text-indent: 120px;
+    font-size: 1.2vw;
+    text-indent: 80px;
     }
 
     
@@ -31,9 +31,9 @@ h2 {
     background-size: cover;
     
 h1 {
-    font-size: 3rem;
+    font-size: 3vw;
     text-align: left;
-    text-indent: 120px;
+    text-indent: 100px;
         }
 		
     
@@ -55,15 +55,7 @@ span {
 
 // Iconify on Home page
 
-.iconify {
-    color: white;
-    position: grid;
-    height: 3%;
-    width: 3%;
-    margin-top: 40px;
-    margin-left: 165px;
 
-}
 
 .iconify:hover {
     color: plum;

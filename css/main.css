@@ -7,19 +7,22 @@ h1, h2 {
 .s1 {
   background: url("../images/1.png");
   background-size: cover;
+  background-position-x: 30%;
 }
 
 .s1 h1 {
-  font-size: 3rem;
+  font-size: 3vw;
+  font-weight: 300;
   text-align: left;
-  text-indent: 120px;
-  letter-spacing: 20px;
+  text-indent: 80px;
+  letter-spacing: 10px;
 }
 
 .s1 h2 {
+  font-size: 3vw;
+  font-weight: 300;
   text-align: left;
-  font-size: 1.2rem;
-  text-indent: 120px;
+  text-indent: 80px;
 }
 
 .s2 {
@@ -56,11 +59,11 @@ span {
 
 .iconify {
   color: white;
-  position: grid;
-  height: 3%;
-  width: 3%;
-  margin-top: 40px;
-  margin-left: 165px;
+
+  height: 3vh;
+  width: 20px;
+  margin-top: 20px;
+  margin-left: 80px;
 }
 
 .iconify:hover {
